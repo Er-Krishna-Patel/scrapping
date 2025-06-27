@@ -1,0 +1,7 @@
+flask
+pandas
+requests
+beautifulsoup4
+werkzeug
+gunicorn
+openpyxl
